@@ -10,7 +10,7 @@ public class Ex06 {
 				c[i] = ',';
 			}System.out.print(c[i]);
 			
-			
+			// char는 ==, String은 equals()사용하여 변수 비교
 		}
 	}
 	

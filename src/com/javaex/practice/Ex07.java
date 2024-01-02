@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Ex07 {
 	public static void main(String[] args) {
+		//??
 		int[] wonArray = new int[10];
 		wonArray[0] = 50000;
 		wonArray[1] = 10000;
