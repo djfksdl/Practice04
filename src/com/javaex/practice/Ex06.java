@@ -10,7 +10,7 @@ public class Ex06 {
 				c[i] = ',';
 			}System.out.print(c[i]);
 			
-			// char는 ==, String은 equals()사용하여 변수 비교
+			// char같은 기본 자료형에서는 ==, 클래스 자료형인 String은 equals()사용하여 변수 비교
 		}
 	}
 	
