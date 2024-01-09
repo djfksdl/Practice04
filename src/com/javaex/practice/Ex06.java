@@ -8,7 +8,8 @@ public class Ex06 {
 		for(int i = 0; i <c.length; i++) {
 			if(c[i] == ' ') {
 				c[i] = ',';
-			}System.out.print(c[i]);
+			}
+			System.out.print(c[i]);
 			
 			// char같은 기본 자료형에서는 ==, 클래스 자료형인 String은 equals()사용하여 변수 비교
 		}

@@ -62,17 +62,19 @@ public class Ex07 {
  * 		50000원 = money/wonArray[0]
  * 		10000원 = money%wonArray[0]
  * */
+//		wonArray[0] = money/wonArray[0];
+//		wonArray[1] = money - 
 		
-		System.out.println(wonArray[0] + "원: " + money/wonArray[0] +"개");
-		System.out.println(wonArray[1] + "원: " + (money%wonArray[0])/10000 + "개");
-		System.out.println(wonArray[2] + "원: " + (money/wonArray[2])/10+ "개");
-		System.out.println(wonArray[3] + "원: " + (money%wonArray[2])/1000 + "개");
-		System.out.println(wonArray[4] + "원: " + (money/wonArray[4])+ "개");
-		System.out.println(wonArray[5] + "원: " + (money%wonArray[4])/100 + "개");
-		System.out.println(wonArray[6] + "원: " + (money/wonArray[6]) + "개");
-		System.out.println(wonArray[7] + "원: " + (money%wonArray[6])/10 + "개");
-		System.out.println(wonArray[8] + "원: " + (money/wonArray[8]) + "개");
-		System.out.println(wonArray[9] + "원: " + money%wonArray[8] + "개");
+//		System.out.println(wonArray[0] + "원: " + money/wonArray[0] +"개");
+//		System.out.println(wonArray[1] + "원: " + (money%wonArray[0])/10000 + "개");
+//		System.out.println(wonArray[2] + "원: " + (money/wonArray[2])/10+ "개");
+//		System.out.println(wonArray[3] + "원: " + (money%wonArray[2])/1000 + "개");
+//		System.out.println(wonArray[4] + "원: " + (money/wonArray[4])+ "개");
+//		System.out.println(wonArray[5] + "원: " + (money%wonArray[4])/100 + "개");
+//		System.out.println(wonArray[6] + "원: " + (money/wonArray[6]) + "개");
+//		System.out.println(wonArray[7] + "원: " + (money%wonArray[6])/10 + "개");
+//		System.out.println(wonArray[8] + "원: " + (money/wonArray[8]) + "개");
+//		System.out.println(wonArray[9] + "원: " + money%wonArray[8] + "개");
 		
 		sc.close();
 	}
